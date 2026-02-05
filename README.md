@@ -1,3 +1,5 @@
+![Logo](https://github.com/user-attachments/assets/3a9872cf-113e-4a0b-8be8-23f4f5b562e4)
+
 # Gouserfy
 
 Secure user management backend for Go applications.
