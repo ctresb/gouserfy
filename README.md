@@ -4,6 +4,10 @@
 
 Secure user management backend for Go applications.
 
+## SDKs
+
+Official client libraries: [Gouserfy SDKs](https://github.com/ctresb/gouserfy-sdks)
+
 ## Quick Start
 
 ```bash
